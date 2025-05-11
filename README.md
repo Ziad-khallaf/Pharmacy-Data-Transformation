@@ -18,7 +18,7 @@ It also focuses on preparing pharmacy sales data for analysis and potential mode
 
 ## Data Loading and Collection
 
-The dataset is loaded from a single CSV file named `sales.csv`. Pandas' `read_csv()` function is used to read this data into a DataFrame, which is the primary data structure for analysis in Pandas.
+The dataset is loaded from a multiple CSV files named `doctor.csv`,`drugs.csv`,`insurance.csv`,`patient.csv`,`persciptions.csv`,`supplier.csv`. Pandas' `read_csv()` function is used to read this data into a DataFrames, which is the primary data structure for analysis in Pandas.
 
 ## Data Cleaning and Transformation
 
